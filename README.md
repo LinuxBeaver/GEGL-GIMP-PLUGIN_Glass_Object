@@ -1,5 +1,9 @@
 # Object to Glass GEGL GIMP PLUGIN
 
+Download binaries and code here
+
+https://github.com/LinuxBeaver/GEGL-GIMP-PLUGIN_Glass_Object/releases
+
 GEGL GIMP plugin that turns objects to translucent glass. 
 
 ![image preview](previews/1.png)
